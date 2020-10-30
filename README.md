@@ -10,4 +10,6 @@
 ```
 ruby 8_ball.rb
 ```
-[Описание]()
+[Описание](https://ru.wikipedia.org/wiki/Magic_8_ball)
+
+[Автор Сергей Савельев](https://github.com/SavelevSergei)
